@@ -44,7 +44,7 @@ echo "Usuario: ".$_SESSION['login_user'];
 	
 	<ul class="nav nav-tabs" role="tablist">
 		<li role="presentation"><a>Escolar</a></li>
-		<li role="presentation"><a>Inicio</a></li>
+		<li role="presentation"><a>IniciA</a></li>
      </ul>
   
     <!-- Bootstrap core JavaScript
