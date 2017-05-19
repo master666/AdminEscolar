@@ -65,17 +65,21 @@ else
 					<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 					<li data-target="#carousel-example-generic" data-slide-to="1"></li>
 					<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="3"></li>
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<center><img src="imagenes/alumnos.jpg" alt="First slide" title="Alumnos" style="width: 55%;"></center>
+						<center><img src="imagenes/PRIMARIA3.jpg" alt="First slide" title="Alumnos" style="width: 55%;"></center>
 					</div>
 					<div class="item">
-						<center><img src="imagenes/school.jpg" alt="Second slide" title="School" style="width: 52.4%;"></center>
+						<center><img src="imagenes/PRIMARIA1.jpg" alt="Second slide" title="School" style="width: 52.4%;"></center>
 					</div>
 					<div class="item">
-						<center><img src="imagenes/articulos.jpg" alt="Second slide" title="Articulos" style="width: 46%;"></center>
+						<center><img src="imagenes/PRIMARIA2.jpg" alt="Second slide" title="Articulos" style="width: 46%;"></center>
 					</div>
+                    <div class="item">
+						<center><img src="imagenes/PRIMARIA4.jpg" alt="Second slide" title="Articulos" style="width: 46%;"></center>
+					</div> 
 				</div>
 				<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
 				    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
